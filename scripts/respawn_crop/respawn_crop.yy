@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"respawn_crop",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"respawn_crop",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

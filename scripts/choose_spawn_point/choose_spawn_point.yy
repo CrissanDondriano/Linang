@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"choose_spawn_point",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"choose_spawn_point",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

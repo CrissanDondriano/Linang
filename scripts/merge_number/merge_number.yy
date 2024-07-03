@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"merge_number",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"merge_number",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
